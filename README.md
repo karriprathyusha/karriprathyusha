@@ -95,7 +95,7 @@ Intermediate, CEC | 2019 - 2021 | Grade: 6.6/10.0
 Feel free to connect, collaborate, or share ideas!  
 I'm always happy to learn from others and grow together.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathyusha-karri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Prathyusha-Karri/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karriprathyusha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karriprathyusha555@gmail.com)
 
